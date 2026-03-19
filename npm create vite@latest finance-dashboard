@@ -1,0 +1,6 @@
+npm create vite@latest finance-dashboard -- --template react
+cd finance-dashboard
+npm install
+npm install recharts lucide-react
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -
